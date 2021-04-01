@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-04-01T18:54:24.463Z</updated>
+  <updated>2021-04-01T06:13:28.315Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>高数进展</title>
+    <link href="http://example.com/2021/04/01/%E9%AB%98%E6%95%B0%E8%A7%86%E9%A2%91/"/>
+    <id>http://example.com/2021/04/01/%E9%AB%98%E6%95%B0%E8%A7%86%E9%A2%91/</id>
+    <published>2021-04-01T07:51:24.000Z</published>
+    <updated>2021-04-01T06:13:28.315Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="第二章第六节的中值定理，中间的29分的拉格朗日定理的证明过程学的不是太懂"><a href="#第二章第六节的中值定理，中间的29分的拉格朗日定理的证明过程学的不是太懂" class="headerlink" title="第二章第六节的中值定理，中间的29分的拉格朗日定理的证明过程学的不是太懂"></a>第二章第六节的中值定理，中间的29分的拉格朗日定理的证明过程学的不是太懂</h2><h3 id="高数看到定积分2就没看了，因为后面的已经看的断断续续了，再这样看下去就是浪费时间，请等到七月N2考完，马上开始准备高数"><a href="#高数看到定积分2就没看了，因为后面的已经看的断断续续了，再这样看下去就是浪费时间，请等到七月N2考完，马上开始准备高数" class="headerlink" title="高数看到定积分2就没看了，因为后面的已经看的断断续续了，再这样看下去就是浪费时间，请等到七月N2考完，马上开始准备高数"></a>高数看到定积分2就没看了，因为后面的已经看的断断续续了，再这样看下去就是浪费时间，请等到七月N2考完，马上开始准备高数</h3>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;第二章第六节的中值定理，中间的29分的拉格朗日定理的证明过程学的不是太懂&quot;&gt;&lt;a href=&quot;#第二章第六节的中值定理，中间的29分的拉格朗日定理的证明过程学的不是太懂&quot; class=&quot;headerlink&quot; title=&quot;第二章第六节的中值定理，中间的29分的拉</summary>
+      
+    
+    
+    
+    
+    <category term="Math" scheme="http://example.com/tags/Math/"/>
+    
+  </entry>
   
   <entry>
     <title>启航</title>
